@@ -1,4 +1,34 @@
 ---
 label: Review
-hide_body: false
-fields: []
+hide_body: true
+fields:
+- name: reviewer_name
+  type: text
+  config:
+    required: false
+  label: Reviewer Name
+  description: Name of person that left the review
+- name: date
+  type: datetime
+  label: Review Date
+  description: Date of the review, used to calculate "8 months ago"
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: review_text
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+    max: 
+  label: Review Text
+  description: Copy and Paste the text (or partial) of the review
+pages:
+- content/reviews/connor.md
+- content/reviews/sara.md
+- content/reviews/somer.md
