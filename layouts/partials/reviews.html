@@ -15,7 +15,7 @@
 
 <div class="container-1500 centered flex full three-900">
 {{ range last 3 ((where .Site.RegularPages "Section" "reviews").ByDate ) }}
-<div style="align-self:center">
+<div style="display:flex;align-self:stretch;">
 	<div class="review-wrap">
 		<a href="https://www.google.com/search?hl=en&amp;q=aardvark%20bark#lrd=0x5490fdeeefc24043:0x7ef3491845589b4a,1,,," target="_blank" style="">
 		  <span class="reviewer">{{ .Params.reviewer_name }}</span>
