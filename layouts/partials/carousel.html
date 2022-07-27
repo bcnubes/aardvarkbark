@@ -2,7 +2,7 @@
   <!-- carousel locator -->
     {{ $i := int 1 }}
     {{ range .Site.Data.carousel.carousel_gallery }}
-    <input class="carousel-locator" id="slide-{{$i}}" type="radio" name="carousel-radio" hidden="">
+    <input class="carousel-locator" id="slide-{{$i}}" type="radio" name="carousel-radio" hidden="" {{ if eq $i 1 }}checked{{ end }}>
     {{ $i = add $i 1 }}
     {{end}}
 
@@ -10,8 +10,7 @@
   <div class="carousel-container">
     <!-- carousel item -->
     {{ range .Site.Data.carousel.carousel_gallery }}
-    <figure class="carousel-item">
-      <img class="img-responsive rounded" src="{{ . }}" alt="Bark Blowing Residential">
+    <figure class="carousel-item" style="background-image:url({{ . }});">
     </figure>
     {{end}}
   </div>
