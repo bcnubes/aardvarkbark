@@ -1,17 +1,16 @@
 <div class="carousel">
   <!-- carousel locator -->
-  <input class="carousel-locator" id="slide-1" type="radio" name="carousel-radio" hidden="" checked="">
-  <input class="carousel-locator" id="slide-2" type="radio" name="carousel-radio" hidden="">
-  <input class="carousel-locator" id="slide-3" type="radio" name="carousel-radio" hidden="">
-  <input class="carousel-locator" id="slide-4" type="radio" name="carousel-radio" hidden="">
+    {{ $i := int 1 }}
+    {{ range .Site.Data.carousel.carousel_gallery }}
+    <input class="carousel-locator" id="slide-{{$i}}" type="radio" name="carousel-radio" hidden="">
+    {{ $i = add $i 1 }}
+    {{end}}
 
   <!-- carousel container -->
   <div class="carousel-container">
     <!-- carousel item -->
     {{ range .Site.Data.carousel.carousel_gallery }}
     <figure class="carousel-item">
-      <label class="item-prev btn btn-action btn-lg" for="slide-4"><i class="icon icon-arrow-left"></i></label>
-      <label class="item-next btn btn-action btn-lg" for="slide-2"><i class="icon icon-arrow-right"></i></label>
       <img class="img-responsive rounded" src="{{ . }}" alt="Bark Blowing Residential">
     </figure>
     {{end}}
