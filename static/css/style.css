@@ -3099,6 +3099,8 @@ footer small{color: #ffffff88}
   position: absolute;
   top: 0;
   width: 100%;
+  background-size: cover;
+  background-position: center;
 }
 
 .carousel .carousel-container .carousel-item:hover .item-prev,
