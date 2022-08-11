@@ -17,10 +17,9 @@
     background: #ebeae9;
     border: 0px;
   }
-
+  .shadowbox{box-shadow: 2px 2px 2px #381313;}
   .products-thumb {
     width: 100%;
-    box-shadow: 2px 2px 2px #381313;
   }
   .product-info {
     padding-left: 1em;
@@ -38,7 +37,7 @@
     </a>
     <div class="flex two grow">
       <div class="full half-600 third-900 fourth-1200">
-	      <div class="aspect aspect--4x3">
+	      <div class="aspect aspect--4x3 shadowbox">
           <div class="aspect__inner">
 			    <a href="{{ .RelPermalink }}">
 			    {{ $img := resources.Get .Params.thumbnail }}
