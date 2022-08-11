@@ -20,6 +20,7 @@
 
   .products-thumb {
     width: 100%;
+    box-shadow: 2px 2px 2px #381313;
   }
   .product-info {
     padding-left: 1em;
@@ -42,7 +43,7 @@
 			    <a href="{{ .RelPermalink }}">
 			    {{ $img := resources.Get .Params.thumbnail }}
 			    {{ with $img }}
-			    	<img src="{{ (.Fill "600x450 q90 Center").RelPermalink }}" />
+			    	<img class="products-thumb" src="{{ (.Fill "600x450 q90 Center").RelPermalink }}" />
 			    {{ end }}
 			    </a>
 		      </div>
