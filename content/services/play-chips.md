@@ -17,6 +17,4 @@ The International Play Equipment Manufacturers Association (IPEMA) provides a th
 
 ![](/imgs/fiberpc-installation-still_1.jpg)
 
-![](/imgs/ipema_f1292section4-2_f3351_resized.jpg)
-
-![](/imgs/ipema_2075_resized.jpg)
+![](/imgs/ipema-both.jpg)
