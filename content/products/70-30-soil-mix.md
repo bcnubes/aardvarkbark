@@ -19,19 +19,19 @@ Here are some of many scenarios this product has been used successfully by custo
 
 * Installing rolled Sod, spreading grass seed or hydroseeding directly on top.
 * Blown in raised planter boxes and gardens areas.
-* Blown in the low spots of an existing uneven lawn.
-* Blown in the flower bed areas to raise up and provide good growing media for plants.
+* Blown in the to low spots of an existing uneven lawn.
+* Blown in to the flower beds to raise up and provide good growing media for plants.
 * Blown in to create raised flower beds for planting.
 
 ![](/imgs/7030-resized.jpg)
 
 **Q:** I have a rock wall in my yard, above it has bad soil for growing and lots of rocks, I would like to plant in it, what have you done for customers in this situation?
 
-**_A:_** _Blow in 2-4” layer of Blower topsoil, this makes it a smooth level surface and provides a nice place to plant the plants. Finish it off with a layer 2-3” layer of your choice of bark to keep the moisture in the ground and the weeds suppressed._
+**_A:_** _Blow in 2-4” layer of Blower topsoil, this makes it a smooth level surface and provides a nice place for planting. Finish it off with a layer 2-3” layer of your choice of bark to keep the moisture in the ground and the weeds suppressed._
 
 **Q:** We just bought a house the back yard is unfinished, rocky and uneven. I don’t want to wheelbarrow topsoil! What have you done for customers in the past?
 
-**A:** _Blow in in 2-4” layer of Blower topsoil, this makes it a smooth level surface to work with. Customer does some additional preparing as desired, installs Sod, spreads seed or has hydroseeded. Apply the blower soil thicker around the perimeter to create a raised bed look for planting. Finish it off with a layer 2-3” layer of your choice of bark to keep the moisture in the ground and the weeds suppressed._
+**A:** _Blow in 2-4” layer of Blower topsoil, this makes it a smooth level surface to work with. Customer does some additional preparing as desired, installs Sod, spreads seed or has hydroseeded. Apply the blower soil thicker around the perimeter to create a raised bed look for planting. Finish it off with a layer 2-3” layer of your choice of bark to keep the moisture in the ground and the weeds suppressed._
 
 _We show up with the blower truck loaded with material 2 guys to operate it, 280 ft. of hose to reach the areas. We install the material and clean up after our work with a blower pack and if needed a garden hose to rinse the house, fence, plants etc._
 
