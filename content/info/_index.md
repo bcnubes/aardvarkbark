@@ -9,9 +9,9 @@ thumbnail: "/imgs/colorful-trucks-800.jpg"
 * **Q:** _Can you blow bark in the rain?_
 
   **A:** Yes! Our trucks use a dust suppression system that adds water to the material. Blowing bark in the rain is common in Washington.
-* **Q:** _Can you blow soil?_
+* **Q:** _Can you blow dirt?_
 
-  **A:** Unfortunately, no. Pure soil is too heavy for a blower truck. The closest product we can blow is a 70/30 Mix, which is 70% compost and 30% washed sand. See our products page for more information.
+  **A:** Unfortunately, no. Pure dirt is too heavy for a blower truck. Our trucks can blow a Blower Topsoil, which is 70% compost and 30% washed sand. See our products page for more information.
 * **Q:** _Can you blow straw?_
 
   **A:** Our blower trucks are not able to blow straw. It is too light to properly feed through the system.
