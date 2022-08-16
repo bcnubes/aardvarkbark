@@ -48,14 +48,14 @@ Here are some scenarios this product has been used for successfully by our custo
 
 **Q:** Is there a minimum number of yards that must be ordered for blower service?
 
-* **A:** No, we have a minimum amount that we must charge that varies on factors such as your location. Some customers are in a situation where they only need 4 yards and have no other option but to blow it in. We can do these jobs that are small but must charge accordingly. Typically, the best price is given when you can get the full truck load quantity. With traffic congestion in the Puget sound, we will spend more time in traffic getting to and from your job than what it takes to do the job.
+* **A:** No, we have a minimum amount that we charge which varies on factors such as your location. Some customers are in a situation where they only need 4 yards and have no other option but to blow it in. We can do these jobs that are small but must charge accordingly. Typically, the best price is given when you can get the full truck load quantity. With traffic congestion in the Puget sound, we will spend more time in traffic getting to and from your job than the time it takes to do the job.
 
 **Q:** Do I need to rake it or compact it after it's blown?
 
-* **A:** _Sometimes, this is more on a customer choice case by case basis. Check out our Google reviews for existing customer input._
+* **A:** _We do not do either of those things but your situation might require it. Check out our Google reviews for existing customer input._
 
 **_Disclaimer_**
 
-Blower Soil is not a traditional type 2 or 3 way soil mix. It does not have the same compaction characteristics of a tradition high loam content soil mix. The thicker it is installed the more spongy or soft it can feel.
+Blower Soil is not a traditional type 2 or 3 way soil mix. It does not have the same compaction characteristics of a traditional high loam content soil mix. The thicker it is installed, the more spongy or soft it can feel.
 
-Our feedback from the customers is that it can be soft and spongy at first but as the roots grow, it firms up nice.
+Our feedback from the customers is that it can be soft and spongy at first, but as the roots grow, it firms up nice.
