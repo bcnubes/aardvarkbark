@@ -32,11 +32,11 @@ Here are some scenarios this product has been used for successfully by our custo
 **Q:** We just bought a house the back yard is unfinished, rocky and uneven. I don’t want to wheelbarrow topsoil! What have you done for customers in the past?
 
 * **A:** _Blow in a 2-4” layer of Blower topsoil, this makes it a smooth level surface to work with. Customer does some additional preparing as desired, installs sod, spreads seed, or has hydroseeded. Apply the blower soil thicker around the perimeter to create a raised bed look for planting. Finish it off with a 2-3” layer of your choice of bark to keep the moisture in the ground and the weeds suppressed._
-* _We show up with the blower truck loaded with material and 2 guys to operate it, 280 ft. of hose to reach the areas. We install the material and clean up after our work with a blower pack and if needed a garden hose to rinse the house, fence, plants etc._
+* _We show up with the blower truck loaded with material and 2 guys to operate it and 280 ft. of hose to reach the areas. We install the material and clean up after our work with a blower pack, and if needed a garden hose to rinse the house, fence, plants etc._
 
 **Q:** How much material can you bring?
 
-* **A:** _The blower soil is one of the heaviest products we carry and depending on the rainfall and moisture content we can carry 12-20 yards._
+* **A:** _Blower soil is one of the heaviest products we carry and depending on the rainfall and moisture content we can carry 12-20 yards._
 
 **Q:** Can you go through a side gate?
 
