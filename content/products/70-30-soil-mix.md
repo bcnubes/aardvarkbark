@@ -44,7 +44,7 @@ Here are some scenarios this product has been used for successfully by our custo
 
 **Q:** How thick do you apply it?
 
-* **A:** _We have seen the best success rates in the 1-5” range of depth for lawns, 6” and more can require compacting and may settle overtime. We have done raised plater beds over 5 ft. thick for customers. Ultimately the depth is up to the customer and what best fits their situation._
+* **A:** _We have seen the best success rates in the 1-5” range of depth for lawns, 6” and more can require compacting and may settle over time. We have done raised planter beds over 5 ft. deep for customers. Ultimately, the depth is up to the customer and what best fits their situation._
 
 **Q:** Is there a minimum number of yards that must be ordered for blower service?
 
