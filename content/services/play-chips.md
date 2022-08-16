@@ -5,7 +5,7 @@ thumbnail: "/imgs/play-surfacing-thumb.jpg"
 keywords: []
 
 ---
-### **FiberPC**
+#### **FiberPC**
 
 Our premium engineered wood fiber playground surfacing is manufactured and designed specifically for installing under and around Playgrounds and play structures, play equipment and play sets of all shapes and sizes.
 
