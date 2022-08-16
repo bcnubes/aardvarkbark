@@ -55,7 +55,7 @@ _We show up with the blower truck loaded with material 2 guys to operate it, 280
 
 **A:** _Sometimes, this is more on a customer choice case by case basis. Check out our Google reviews for existing customer input._
 
-__*Disclaimer*__ 
+**_Disclaimer_**
 
 Blower Soil is not a traditional type 2 or 3 way soil mix. It does not have the same compaction characteristics of a tradition high loam content soil mix. The thicker it is installed the more spongy or soft it can feel.
 
