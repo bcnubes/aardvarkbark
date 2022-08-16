@@ -40,7 +40,7 @@ Here are some scenarios this product has been used for successfully by our custo
 
 **Q:** Can you go through a side gate?
 
-* **A:** _Yes, the 4” hose is flexible. It can go over / under a fence through / over a building and floats on top of water to get to an island. (We have done all of these!)_
+* **A:** _Yes, the 4” hose is flexible. It can go over, under, or through a fence; over a building, and can float on top of water to get to an island. (We have done all of these!)_
 
 **Q:** How thick do you apply it?
 
