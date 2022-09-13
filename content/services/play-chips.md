@@ -19,6 +19,6 @@ In the Interest of playground safety, the International Play Equipment Manufactu
 
 ![](/imgs/fiberpc_mainlogo-resize-6x3.jpg)
 
-The International Play Equipment Manufacturers Association (IPEMA) provides a third-party certification to ensure product conformance to specific ASTM and/or CSA standards. Each product promoted here, if certified by IPEMA, includes the name and model number for you to search the IPEMA website for verification. To verify product certification, visit [www.ipema.org](www.ipema.org) and conduct a search.
+The International Play Equipment Manufacturers Association (IPEMA) provides a third-party certification to ensure product conformance to specific ASTM and/or CSA standards. Each product promoted here, if certified by IPEMA, includes the name and model number for you to search the IPEMA website for verification. To verify product certification, visit [www.ipema.org](www.ipema.org) and conduct a search. 
 
 ![](/imgs/fiberpc-installation-still_1.jpg)
