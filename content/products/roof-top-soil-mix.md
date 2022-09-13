@@ -14,4 +14,4 @@ title = "Fiber PC - Playground Surfacing"
 
 IPEMA Certified Engineered Wood Fiber 100 % cedar virgin wood. Our FiberPC is considered one of the safest wood products available for playground areas. FiberPC when installed are accessible to people in wheelchairs (ADA compliant). The size of the pieces have been screened and processes to be 1 1/2” minus.
 
-The playground surfacing identified in this plan is IPEMA certified. The use and layout of this surfacing conform(s) to the requirements of one or more of these standards: F1292, F3351; and for engineered wood fiber, also, to ASTM F2075; and for Loose Fill Rubber, also, to ASTM F3012. To verify product certification, visit [www.ipema.org](http://www.ipema.org).
+The International Play Equipment Manufacturers Association (IPEMA) provides a third-party certification to ensure product conformance to specific ASTM and/or CSA standards. Each product promoted here, if certified by IPEMA, includes the name and model number for you to search the IPEMA website for verification. To verify product certification, visit [www.ipema.org ](www.ipema.org)and conduct a search.
