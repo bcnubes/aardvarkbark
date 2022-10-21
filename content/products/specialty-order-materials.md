@@ -27,3 +27,5 @@ These materials are ordered as needed from outside suppliers. Therese are some a
 **GREEN ROOF MIX:** Proprietary blend of pumice, red cinders & fine compost meeting the parameters detailed in the table below. Needs to be crane hoisted in super sacks to roof top areas.
 
 Optimal soil mixes and depths for green roofs depend on site-specific factors including planting type, microclimate and structural support. 
+
+Cedar Grove Green Roof Mix and Cedar Grove Lightweight Mixes are designed to meet the specifications of regional designers and have been used on numerous successful projects. A Civil Engineer, Landscape Architect or green roof system vendor should be consulted to specify soil requirements for new and retrofitted structures. The local stormwater utility should also be consulted when planning new projects that drain to sewers or surface waters.
