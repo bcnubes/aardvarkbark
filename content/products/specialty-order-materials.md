@@ -26,4 +26,4 @@ These materials are ordered as needed from outside suppliers. Therese are some a
 
 **GREEN ROOF MIX:** Proprietary blend of pumice, red cinders & fine compost meeting the parameters detailed in the table below. Needs to be crane hoisted in super sacks to roof top areas.
 
-Optimal soil mixes and depths for green roofs depend on site-specific factors including planting type, microclimate and structural support. Green roof plantings are commonly divided into two types: “Extensive” and “Intensive”. Examples of each are shown at right.
+Optimal soil mixes and depths for green roofs depend on site-specific factors including planting type, microclimate and structural support. 
