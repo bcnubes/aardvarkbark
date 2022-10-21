@@ -2,7 +2,7 @@
 date = ""
 keywords = ["blower"]
 thumbnail = "/imgs/special-order.jpg"
-title = "Specialty order Materials"
+title = "Specialty Order Materials"
 
 +++
 
