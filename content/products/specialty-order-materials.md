@@ -1,16 +1,14 @@
 +++
 date = ""
-draft = true
 keywords = ["blower"]
 thumbnail = "/imgs/special-order.jpg"
 title = "Specialty order Materials"
 
 +++
-Carpintio
 
-### Specialty Order Materials
+### Specialty Order Materials 
 
-These materials are ordered as needed from outside suppliers. Therese are some additional materials that are suitable for a blower truck. These products are not kept at our yard.
+Special order products are suitable for blower service but they are not stored in our yard and are ordered directly from the manufacturer. 
 
 ![](/imgs/carpinito-brothers-green-shield-white2-svg.jpg)
 
