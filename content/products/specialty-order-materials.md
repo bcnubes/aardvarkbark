@@ -2,7 +2,7 @@
 date = ""
 draft = true
 keywords = ["blower"]
-thumbnail = ""
+thumbnail = "/imgs/special-order.jpg"
 title = "Specialty order Materials"
 
 +++
