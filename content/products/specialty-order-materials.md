@@ -21,7 +21,7 @@ Special order products are suitable for blower service but they are not stored i
 
 **LIGHTWEIGHT #1:** Proprietary blend of fine compost, medium bark, coco fiber and pumice. Can be installed via blower truck to roof top areas or planter beds.
 
-**GREEN ROOF MIX:** Proprietary blend of pumice, red cinders & fine compost meeting the parameters detailed in the table below. Needs to be crane hoisted in super sacks to roof top areas.
+**GREEN ROOF MIX:** Proprietary blend of pumice, red cinders & fine compost meeting the parameters detailed in the table below. Needs to be crane hoisted in super sacks to roof top areas or via blower truck. 
 
 Optimal soil mixes and depths for green roofs depend on site-specific factors including planting type, microclimate and structural support.
 
