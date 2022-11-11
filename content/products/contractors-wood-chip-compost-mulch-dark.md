@@ -1,8 +1,7 @@
 +++
 date = ""
-draft = true
 keywords = ["slinger", "blower"]
-thumbnail = ""
+thumbnail = "/imgs/contractors-wood-chip-compost-mulch-dark-resized.jpg"
 title = "Contractors Wood Chip Compost Mulch- Dark"
 
 +++
