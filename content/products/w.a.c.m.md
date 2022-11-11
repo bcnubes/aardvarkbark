@@ -3,15 +3,9 @@ date = ""
 draft = true
 keywords = ["blower"]
 thumbnail = ""
-title = "W.A.C.M"
+title = "Contractors Wood Chip Arborist Mulch"
 
 +++
-W.A.C.M
+Contractors Arborist Wood Chip Mulch Fresh 
 
-Woodchip Arborist Contractors Mulch
-
-Perfect for erosion control, wooded areas, retention ponds and other construction needs. A mix of various wood products and bark remnants, WACM provides a non-decorative ground cover at an affordable price.
-
-This WACM is a material that comes from the byproduct of your local tree service or work done by arborists or from timber harvesting. It can include any part of a tree removed by an arborist or service: Stumps, branches, leaves, blooms, and even roots.
-
-This is natural, organic matter that has been run through a wood chipper. Usually, it is the remnants of tree service that have been broken down into arborist wood chips. Sometimes this is old trees, and sometimes it’s fresh wood. It also contains portions of bark that has been screened out of the bark manufacturing process. 
+No.1 source material is processed vegetation, trees, arborist wood chips, tree trunks, tree branches & fresh tree bark. Suitable as a top dressing for trees and shrubs. Uniform size range of 95% passing 2” and no more than 55% passing ¼”sieve. Material does not contain salts, resin, tannins or other compounds in quantities that would be detrimental to plant life.
