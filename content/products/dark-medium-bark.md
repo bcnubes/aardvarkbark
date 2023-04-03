@@ -2,7 +2,7 @@
 date = 2019-02-15T08:00:00Z
 keywords = ["blower"]
 name = ""
-thumbnail = "https://app.forestry.io/sites/8rsqm-9l3desoa/body-media//imgs/dark-medium-resized-ofs.jpg"
+thumbnail = "/imgs/dark-medium-resized-ofs.jpg"
 title = "Dark Medium Bark"
 
 +++
